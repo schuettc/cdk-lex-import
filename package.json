@@ -1,5 +1,5 @@
 {
-  "name": "cdk-lex-upload",
+  "name": "cdk-lex-import",
   "scripts": {
     "build": "npx projen build",
     "bundle": "npx projen bundle",
