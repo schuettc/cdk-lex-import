@@ -6,7 +6,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   projenrcTs: true,
   authorAddress: 'https://subaud.io',
   jest: false,
-  cdkVersion: '2.20.0',
+  cdkVersion: '2.100.0',
   defaultReleaseBranch: 'main',
   name: 'cdk-lex-zip-import',
   description: 'cdk construct for importing a zipped Lex bot',
